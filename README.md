@@ -24,7 +24,7 @@ Vi har brugt sklearn til at dele vores dataset op i "training og test"
 
 ### Instruktion til at køre projektet
 
-Vores projekt er en google collab notebook. "Link"
+Vores projekt er en google collab notebook. https://colab.research.google.com/github/cprejler/pytexamproject/blob/main/pytexamproject.ipynb
 
 Projektet er sat op til at downloade datasættet, samt filerne til at genskabe modellerne igen, fra et google drive, så man ikke behøves at køre modellen igen. 
 
